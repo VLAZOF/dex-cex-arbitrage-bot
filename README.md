@@ -12,7 +12,7 @@
 Unlike Python-based bots that suffer from GIL (Global Interpreter Lock) latency, this engine leverages Rust's zero-cost abstractions and the `Tokio` runtime to process 400+ pairs with microsecond-level efficiency.
 
 > **Current Status:** The bot is live and broadcasting signals.
-> **Live Demo:** [Join Channel](https://t.me/DexCexSpreads)
+> **Live Demo:** [Join RU Channel](https://t.me/DexCexSpreads)
 
 ---
 
